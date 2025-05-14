@@ -1,0 +1,33 @@
+// Layout Breakpoints
+
+$mobile-width: 375px;
+$desktop-width: 1440px;
+
+//Colors
+
+$primary-red-400: hsl(7, 99%, 70%);
+$primary-yellow-500: hsl(51, 100%, 49%);
+$primary-green-800-text: hsl(167, 40%, 24%);
+$primary-blue-800-text: hsl(198, 62%, 26%);
+$primary-green-500-footer: hsl(167, 34%, 41%);
+
+$neutral-grey-950: hsl(212, 27%, 19%);
+$neutral-grey-600: hsl(213, 9%, 39%);
+$neutral-grey-550: hsl(232, 10%, 55%);
+$neutral-grey-400: hsl(210, 4%, 67%);
+$neutral-white: hsl(0, 100%, 100%);
+
+// Typography 
+
+$body-font-size: 18px;
+
+// Font Families
+
+$font-family-barlow: "Barlow", sans-serif;
+$font-family-fraunces: "Fraunces", serif; 
+
+//Font Weights
+
+$font-weight-barlow-semibold: 600;
+$font-weight-fraunces-bold: 700;
+$font-weight-fraunces-black: 900;
